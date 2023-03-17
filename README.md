@@ -8,7 +8,7 @@
 
 到岗时间：随时到岗（2023.06.24-07.09 要考试，可能需要请假）
 
-实习时长：3 个月，如果能转正的话，可以直接入职，除去考试和答辩要请假
+实习时长：6 个月
 
 ## 个人信息
 
@@ -23,17 +23,18 @@
 
 for iOS
 
-- 能完成基本的 UI 界面搭建，使用 UIKit 库常用组件通过编码实现交互界面，了解常用的 **……** 等 UI 组件
-- 了解 Swift、Objective-C 编程语言
+- 能完成基本的 UI 界面搭建，使用 UIKit 库常用组件通过编码实现 UI 界面，了解常用的  `UITableView`、`UICollectionView`、`UIAlertController` 等 UI 组件；能够使用 Auto Layout 进行布局
+- 了解 Core Data、Core Animation 等常用 iOS 开发框架
+- 了解 Swift 编程语言，能阅读 Objective-C 代码
 - 了解 iOS 和 iPadOS 常用内置 API
-- 能通过 CocoaPods 使用 AFNetworking 等常用第三方库
-- ~~独立在 App Store 发布过 App：翻页时钟（添加下载链接）~~
+- 能通过 CocoaPods 使用 Alamofire、AFNetworking 等常用第三方库
+- 了解 iOS 开发中常用的设计模式，如 MVC、单例（Singleton）模式、观察者（Observer）模式、委托（Delegate）模式、工厂（Factory）模式、模板方法（Template Method）模式
 
 for little tools
 
 - 使用 Python 编写简单的办公自动化和爬虫脚本
 - 编写简单的 shell 脚本
-- 使用 Pr 、剪映等剪辑软件对视频进行简单的编辑
+- 使用 Pr 、剪映等剪辑软件对视频进行简单的剪辑
 
 ## 实习经历
 
@@ -42,7 +43,7 @@ for little tools
 职责：
 
 - 整理[每周 AI 资讯](https://mp.weixin.qq.com/s/HeTeKCORFeR7q5lJeLhmOA)
-- 根据在主管指导下编写[ AI 科普文章](https://mp.weixin.qq.com/s/lb-06V5IY-x6FrQLwgDF7g)
+- 在主管指导下编写[ AI 科普文章](https://mp.weixin.qq.com/s/lb-06V5IY-x6FrQLwgDF7g)
 - [翻译国外在数据科学方面的优秀文章](https://mp.weixin.qq.com/s/M-i3C0JKLeJaKX4dFhR8ng)
 - 剪辑[ meetup 直播视频](https://www.bilibili.com/video/BV1fG4y1s7uf/?spm_id_from=333.999.0.0)
 
@@ -50,7 +51,7 @@ for little tools
 
 天津理工大学		2020.09 - 2024.06		本科		信息安全专业
 
-## 为什希望做 iOS 开发？
+## 奖项荣誉
 
-1. 有市场，经常看到，各家招聘官网 HC只剩下 iOS/Android，周围人做这方面的少，竞争相对较小，能吃上饭
-2. 相比于 Web
+- 人民奖学金二等奖
+- 国家励志奖学金
