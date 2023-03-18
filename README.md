@@ -24,11 +24,10 @@
 for iOS
 
 - 能完成基本的 UI 界面搭建，使用 UIKit 库常用组件通过编码实现 UI 界面，了解常用的  `UITableView`、`UICollectionView`、`UIAlertController` 等 UI 组件；能够使用 Auto Layout 进行布局
-- 了解 Core Data、Core Animation 等常用 iOS 开发框架
+- ~~了解 Core Data、Core Animation 等常用 iOS 开发框架~~
 - 了解 Swift 编程语言，能阅读 Objective-C 代码
-- 了解 iOS 和 iPadOS 常用内置 API
-- 能通过 CocoaPods 使用 Alamofire、AFNetworking 等常用第三方库
-- 了解 iOS 开发中常用的设计模式，如 MVC、单例（Singleton）模式、观察者（Observer）模式、委托（Delegate）模式、工厂（Factory）模式、模板方法（Template Method）模式
+- 能通过 CocoaPods 使用 ~~Alamofire、SDWebImage、AFNetworking 等常用第三方库~~
+- 了解 iOS 开发中常用的设计模式，如 MVC、单例（Singleton）模式、~~观察者（Observer）模式、委托（Delegate）模式、工厂（Factory）模式、模板方法（Template Method）模式~~
 
 for little tools
 
