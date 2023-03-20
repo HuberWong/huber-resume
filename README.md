@@ -31,6 +31,7 @@ for iOS
 
 for little tools
 
+- 使用 FastAPI 构建测试用假后端
 - 使用 Python 编写简单的办公自动化和爬虫脚本
 - 编写简单的 shell 脚本
 - 使用 Pr 、剪映等剪辑软件对视频进行简单的剪辑
