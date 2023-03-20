@@ -35,6 +35,10 @@ for little tools
 - 编写简单的 shell 脚本
 - 使用 Pr 、剪映等剪辑软件对视频进行简单的剪辑
 
+## 项目
+
+- [计算器](https://github.com/HuberWong/huber-learnAutolayout)
+
 ## 实习经历
 
 [白海科技](https://www.baihai.co/) - 技术运营实习生 2022.08 ~ 2023.01
